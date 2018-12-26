@@ -1,7 +1,7 @@
 <?php 
-    $dbUrl = "localhost";
-    $dbUser = "root";
-    $dbPass = "inside";
+    $dbUrl = "db4free.net";
+    $dbUser = "reffanpandu";
+    $dbPass = "inside14";
     $dbName = "onesound";
 
     $con = mysqli_connect($dbUrl, $dbUser, $dbPass, $dbName);
