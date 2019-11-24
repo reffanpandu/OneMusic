@@ -1,6 +1,6 @@
 <?php 
-    $dbUrl = "db4free.net";
-    $dbUser = "reffanpandu";
+    $dbUrl = "localhost";
+    $dbUser = "root";
     $dbPass = "inside14";
     $dbName = "onesound";
 
